@@ -1,0 +1,10 @@
+{
+    "license": "LGPL + attribution", 
+    "author": "KCode (KCode.de)", 
+    "dependencies": [
+        "jetpack-core"
+    ], 
+    "version": "1.0", 
+    "id": "jid0-4CWH6QoLEzqPnptvV8a33aWFeck", 
+    "description": "AJAX-style CSS Refresh. Obviously only works for <link>-ed stylesheets though."
+}
